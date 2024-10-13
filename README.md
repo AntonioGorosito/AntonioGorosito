@@ -4,7 +4,7 @@
 
 - [Practicing with Zeek]()
 <h2>Certifications</h2>
-- [Certificado de Ciberseguridad de Google](https://www.credly.com/badges/4e394fec-99ce-48b8-886a-3916a6ef6e41/linked_in_profile)
+- Certificado de Ciberseguridad de Google<--(https://www.credly.com/badges/4e394fec-99ce-48b8-886a-3916a6ef6e41/linked_in_profile)
 
 
 <h2> 🤳 Connect with me:</h2>
