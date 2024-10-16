@@ -10,7 +10,7 @@ My passion for cybersecurity has driven me to set my first goal: joining a SOC a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|           Network Traffic Analysis with Zeek  | <a href="https://github.com/AntonioGorosito/ZEEK-exercises-Anomalous-DNS-/blob/main/README.md">Detection Lab</a>|
+| Attack Detection and  Network Traffic Analysis with Zeek  | <a href="https://github.com/AntonioGorosito/ZEEK-exercises-Anomalous-DNS-/blob/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection |Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -41,15 +41,10 @@ My passion for cybersecurity has driven me to set my first goal: joining a SOC a
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
