@@ -44,6 +44,7 @@ My passion for cybersecurity has driven me to set my first goal: joining a SOC a
 
 <div>
 <a href="https://www.credly.com/badges/4e394fec-99ce-48b8-886a-3916a6ef6e41/linked_in_profile"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /></a>
+ <a href="https://coursera.org/share/6ef0ce50c09d085ed67594ab43405f50"><img src="https://img.shields.io/badge/-Infosec%20Cyber%20Threat%20Hunting-3A6E9B?style=for-the-badge&logo=Infosec&logoColor=white" /></a>   
 </div>
 
 ## Projects
