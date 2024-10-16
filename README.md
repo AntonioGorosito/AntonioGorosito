@@ -11,7 +11,7 @@ My passion for cybersecurity has driven me to set my first goal: joining a SOC a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |           Network Traffic Analysis with Zeek  | <a href="https://github.com/AntonioGorosito/ZEEK-exercises-Anomalous-DNS-/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection |Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
