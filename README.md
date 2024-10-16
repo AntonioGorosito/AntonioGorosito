@@ -1,21 +1,16 @@
 # Hello, I'm Antonio Gorosito
 <a href="https://www.linkedin.com/in/antonio-gorosito-tost-7a4091258"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I am a computer science student with a strong interest in cybersecurity, particularly in areas such as vulnerability analysis, threat detection, and network protection. I am passionate about continuous learning, always looking to expand my knowledge and acquire new skills. My goal is to apply my expertise to safeguard critical infrastructures and contribute to building a more secure digital environment.
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My passion for cybersecurity has driven me to set my first goal: joining a SOC as a Level 1 analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+|           Network Traffic Analysis with Zeek  | <a href="https://github.com/AntonioGorosito/ZEEK-exercises-Anomalous DNS-/blob/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
