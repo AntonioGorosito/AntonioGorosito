@@ -5,11 +5,13 @@ I am a computer science student with a strong interest in cybersecurity, particu
 ## Objective
 My passion for cybersecurity has driven me to set my first goal: joining a SOC as a Level 1 analyst.
 
-## Skills
+The goal of this GitHub is to document my learning journey towards becoming a SOC Level 1 analyst. It also aims to showcase my knowledge of industry-standard tools through detailed projects and analysis
+
+## SOC Level 1 learning path on TryHackMe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Network Analysis  | <a href="https://github.com/AntonioGorosito/ZEEK-exercises-Anomalous-DNS-/blob/main/README.md">Detection Lab</a>|
+|Network Analysis with zeek  | <a href="https://github.com/AntonioGorosito/ZEEK-exercises-Anomalous-DNS-/blob/main/README.md">Detection Lab</a>|
 | Tengo que ver |Detection Lab</a>|
 | Tengo que ver        | SOC Automation Lab|
 |Tengo que ver  | SOC Automation Lab|
@@ -17,7 +19,6 @@ My passion for cybersecurity has driven me to set my first goal: joining a SOC a
 | Tengo que ver | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
