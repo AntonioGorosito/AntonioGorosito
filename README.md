@@ -9,6 +9,8 @@ The goal of this GitHub is to document my learning journey towards becoming a SO
 
 ## SOC Level 1 learning path on TryHackMe
 
+In this section, I will be uploading the resolutions for the SOC Level 1 rooms from TryHackMe. Each resolution provides a detailed walkthrough of the challenges faced, the methodologies applied, and the lessons learned throughout the process. This will serve as a valuable resource for anyone looking to deepen their understanding of security operations and enhance their practical skills in cybersecurity.
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Network Analysis with zeek  | <a href="https://github.com/AntonioGorosito/Netmork-Analysis-with-zeek/blob/main/README.md">Detection Lab</a>|
