@@ -11,7 +11,7 @@ The goal of this GitHub is to document my learning journey towards becoming a SO
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Network Analysis with zeek  | <a href="https://github.com/AntonioGorosito/ZEEK-exercises-Anomalous-DNS-/blob/main/README.md">Detection Lab</a>|
+|Network Analysis with zeek  | <a href="https://github.com/AntonioGorosito/Netmork-Analysis-with-zeek/blob/main/README.md">Detection Lab</a>|
 | Tengo que ver |Detection Lab</a>|
 | Tengo que ver        | SOC Automation Lab|
 |Tengo que ver  | SOC Automation Lab|
