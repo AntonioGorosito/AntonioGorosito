@@ -14,7 +14,7 @@ In this section, I will be uploading the resolutions for the SOC Level 1 rooms f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Network Analysis with zeek  | <a href="https://github.com/AntonioGorosito/Netmork-Analysis-with-zeek/blob/main/README.md">Detection Lab</a>|
-| Tengo que ver |Detection Lab</a>|
+| Network Security Analysis with Snort IDS/IPS |Detection Lab</a>|
 | Tengo que ver        | SOC Automation Lab|
 |Tengo que ver  | SOC Automation Lab|
 |Tengo que ver              | SOC Automation Lab|
